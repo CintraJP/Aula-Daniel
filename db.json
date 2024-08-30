@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "e129",
+      "titulo": "Forrest Gump",
+      "autor": "nao sei",
+      "anoPub": "2010",
+      "genero": "dasdsa",
+      "numeroPag": "4"
+    },
+    {
+      "id": "84df",
+      "titulo": "sad",
+      "autor": "asd",
+      "anoPub": "0314",
+      "genero": "asd",
+      "numeroPag": "0123"
+    }
+  ]
+}
